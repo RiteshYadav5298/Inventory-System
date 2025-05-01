@@ -1,0 +1,6 @@
+1,yamaha,R15,grey,32,420000
+2,duke,500,orange,145,3000000
+3,pulsar,ns250,red,28,30000000
+4,benelli,180,black,30,200000
+5,pulsar,200,black,20,2000000
+6,yamaha,mt15,black,9,320000
